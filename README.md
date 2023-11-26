@@ -1,7 +1,9 @@
-
 | func name | type |
+| --------- | ---- |
+|           | view |
 
-whtat
+hello
+
 ## bridge:
 1. ExecTransaction event -
 2. DayTime func  view
