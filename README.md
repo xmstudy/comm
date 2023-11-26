@@ -2,7 +2,8 @@
 | --------- | ---- |
 |           | view |
 
-hello
+hello 56+
+123
 
 ## bridge:
 1. ExecTransaction event -
