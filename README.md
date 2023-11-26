@@ -1,6 +1,7 @@
 
 | func name | type |
-  func_name 
+
+whtat
 ## bridge:
 1. ExecTransaction event -
 2. DayTime func  view
