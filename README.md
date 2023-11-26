@@ -2,9 +2,6 @@
 | --------- | ---- |
 |           | view |
 
-hello 56+
-123
-
 ## bridge:
 1. ExecTransaction event -
 2. DayTime func  view
